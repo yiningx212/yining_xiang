@@ -1,0 +1,32 @@
+---
+title: "Welcome to Yining's DS Project"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+# This is the Landing Page
+
+A.k.a. a meme page!
+
+<img src="IMG_0557.jpeg" style="width:50%">
+
+# My Experience
+
+[CV](cv.html)
+
+[About me](about.html)
+
+
+Create a personal website at <YOUR_GH_NAME>.github.io (or some other reasonably-named location). This page can be as extensive as you’d like, but it should include at least:
+
+A brief introductory landing page
+A page giving your academic and professional experience (i.e. a resume)
+Links in the site navigation for your GitHub account, your email, and other professional networks.
+
+```{r}
+
+```
+
