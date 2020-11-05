@@ -15,18 +15,17 @@ A.k.a. a meme page!
 
 # My Experience
 
+Here is a brief of my academic and professional experiences. 
+
 [CV](cv.html)
 
-[About me](about.html)
+# Flexdashboard
+
+Here are three plots analyzing the shopping customs of the users who place orders on weekends. (a bar plot on category, a box plot on hour of the day and a scatter plot on )
+
+[plots](flexdashboard.html)
 
 
-Create a personal website at <YOUR_GH_NAME>.github.io (or some other reasonably-named location). This page can be as extensive as you’d like, but it should include at least:
 
-A brief introductory landing page
-A page giving your academic and professional experience (i.e. a resume)
-Links in the site navigation for your GitHub account, your email, and other professional networks.
 
-```{r}
-
-```
 
